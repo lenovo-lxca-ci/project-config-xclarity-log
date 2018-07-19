@@ -1,7 +1,7 @@
 # See parameter documetation inside ../manifests/single_node_ci.pp
 # Fields commented out have reasonable default values
-domain: your-domain.example.com
-jenkins_ssh_public_key: your-jenkins-public-key-no-whitespace
+domain: lenovo_lxca_ci_log
+jenkins_ssh_public_key: AAAAB3NzaC1yc2EAAAADAQABAAABAQDsLio+SgpDfaI/zXqdCRdNBh3djM/xQVUhXtWs4UG5jThT9Q4zBVccrf1YDH90AbRqHKGAgPEcvi2cW5f1tlejfcFzyu1GXz3Ki6aQScJ1R5i3i/tgqmKLkwT8S4vP3tZHJ88YlVdSY0fDgE/T2QZZhM3LG7ekDHpnbE3U9KF8ORpA6PHo7wp2uMVRGyHoH2NRCJHXXpKmtwdZeUJBzahgI/1JHGMehHJRAA64qM11ZXaDsAj5jFUy1FZ2cTQSBa7ehyvUQoZLj/SVxZBzPHOq2N3Sb55WSX0kiryaIN4/rSna0HBj0bQ/i9WR1A6DIqLSKHp5Ixbuy4NH2QuorJ75
 ara_middleware: false
 #swift_authurl:
 #swift_user:
